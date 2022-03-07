@@ -1,0 +1,10 @@
+.video_sidebar {
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  color: white; }
+  .video_sidebar_button {
+    margin-top: 20px;
+    text-align: center; }
+  .video_sidebar .colorFavoriteIcon {
+    color: #e63434; }
