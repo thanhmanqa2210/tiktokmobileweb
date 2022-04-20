@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
-import { collection, getDocs } from "firebase/firestore";
+import { getDocs } from "firebase/firestore";
+import { collection } from "firebase/firestore/lite";
 import "./assets/css/App.css";
 import Video from "./components/Video";
 import db from "./config/firebaseConfig";
